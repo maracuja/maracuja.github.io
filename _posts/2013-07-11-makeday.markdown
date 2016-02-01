@@ -1,0 +1,16 @@
+---
+layout:     video
+project:    Company Makedays<i>!</i> *whackyface*
+client:     At the 1st R/GA Makeday in London, a cardboard Nyan Cat won.
+class:      makeday
+date:       2013-07-11 00:00:00
+video:      93032782
+---
+
+So, we made a talking PingPong table that managed a player waiting list. you texted it when you wanted to play and it picked the next to people in line for a game.
+
+It was completely automated and used more libraries and gadets than I have digits on my hands and feet. Our 3 minute presentation was a list of pronouns which were the names of all the involved technologies.
+
+The ones I can remember are twilio, makeymakey, raspberry pi? (as a server), redis (as a queue), python/fabric and C-C-C-Code Igniter (I think this is the last time I've used Code Igniter).
+
+<!-- <p>It's amazing the amount of work you can get done in a day when you're having fun and not worried about stuff breaking.</p> -->

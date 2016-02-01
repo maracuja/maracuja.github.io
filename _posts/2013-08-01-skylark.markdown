@@ -1,0 +1,27 @@
+---
+layout:     post
+client:     Ostmodern
+project:    Skylark
+class:      skylark
+date:       2013-08-01 00:00:01
+---
+
+<p>Skylark is our video content curation system, it sits neatly in front of a lot of industry
+OVPs who are very good at creating video transcoding pipelines, but are less interested in
+serving the content to the user in a meaningful way on a platform such as Netflix or iPlayer.</p>
+
+<p>Skylark gave us as a company the ability to create bespoke VoD solutions for all sorts of
+clients and since we were already VoD specialists as a UX company, suddenly gave us a 
+technical USP over our competitors.</p>
+
+<p>At its core it's a django-package that is included into client django projects, providing
+a core set of functionality which can then be overriden on a client basis. It provides a
+read/write API and connectors to 3rd party services for data ingest and synchronisation with
+all sorts of things like eCommerce providers, OVPs and client data sources.</p>
+
+<p>A good demonstration of Skylark's flexibility as a platform are the two live sites built
+on top of it. Currently there is <a href="https://player.bfi.org.uk/">BFI Player</a> which is
+a front-end built with Django and <a href="https://www.alchemiya.com/">Alchemiya</a> which has
+been built using AngularJS.</p>
+
+<p>About Skylark: <a href="http://ostmodern.co.uk/skylark/">http://ostmodern.co.uk/skylark/</a></p>

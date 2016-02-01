@@ -1,0 +1,31 @@
+---
+layout:     post
+client:     NewsCorp
+project:    Ballball
+class:      ballball
+date:       2014-09-01 00:00:01
+---
+
+<div class="some-images">
+    <div class='left'><img src="/img/ballball-1.png"></div>
+    <div class='right'><img src="/img/ballball-2.png"></div>
+</div>
+
+<p>Ballball is NewsCorp's companion to the Sun Goals, feeding in match highlight videos
+to multiple regions in South East Asia. It is available as a responsive website and also
+an Android app.</p>
+
+<p>The project was very much run as an agile project and immediately after
+the release I was responsible for managing the development of new features for the
+site and app.</p>
+
+<p>Ballball is developed entirely in django. Within the codebase there is read/write API
+serving the data to the site and the app and also ingesting stats and videos from Opta
+and Fox Australia respectively.</p>
+
+<p>On a match day, Ballball processes 11k match update transactions
+from Opta and 3Gb of data within a space of 3 hours. This includes video
+highlights, scores and standings from the top 5 leagues in Europe.</p>
+
+<p>Website: <a href="http://ballball.com/">http://ballball.com/</a>
+<br>Case study: <a href="http://ostmodern.co.uk/projects/newscorp/ballball/">http://ostmodern.co.uk/projects/newscorp/ballball/</a></p>
