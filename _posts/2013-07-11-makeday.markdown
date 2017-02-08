@@ -1,10 +1,11 @@
 ---
-layout:     video
-project:    Company Makedays<i>!</i> *whackyface*
-client:     At the 1st R/GA Makeday in London, a cardboard Nyan Cat won.
-class:      makeday
-date:       2013-07-11 00:00:00
-video:      93032782
+title: Makeday
+date: 2013-07-11 00:00:00 Z
+layout: video
+project: Company Makedays<i>!</i> *whackyface*
+client: At the 1st R/GA Makeday in London, a cardboard Nyan Cat won.
+class: makeday
+video: 93032782
 ---
 
 So, we made a talking PingPong table that managed a player waiting list. you texted it when you wanted to play and it picked the next to people in line for a game.

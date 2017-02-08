@@ -1,9 +1,10 @@
 ---
-layout:     post
-client:     BFI
-project:    BFI Player
-class:      bfi
-date:       2014-10-11 00:00:01
+title: Bfi Player
+date: 2014-10-11 00:00:01 Z
+layout: post
+client: BFI
+project: BFI Player
+class: bfi
 ---
 
 BFI Player is the revamped video rental site for the BFI using the our in-house VoD

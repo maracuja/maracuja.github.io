@@ -1,10 +1,11 @@
 ---
-layout:     video
-client:     Nike and JD Sports
-project:    King of Trainers
-class:      kot
-date:       2013-07-11 00:00:01
-video:      93032781
+title: Nike Jd Sports
+date: 2013-07-11 00:00:01 Z
+layout: video
+client: Nike and JD Sports
+project: King of Trainers
+class: kot
+video: 93032781
 ---
 
 <p>This was such a great project for a lot of reasons. It was the 1st time I lead a

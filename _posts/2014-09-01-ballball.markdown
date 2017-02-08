@@ -1,9 +1,10 @@
 ---
-layout:     post
-client:     NewsCorp
-project:    Ballball
-class:      ballball
-date:       2014-09-01 00:00:01
+title: Ballball
+date: 2014-09-01 00:00:01 Z
+layout: post
+client: NewsCorp
+project: Ballball
+class: ballball
 ---
 
 <div class="some-images">
