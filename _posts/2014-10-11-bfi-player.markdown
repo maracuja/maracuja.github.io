@@ -18,6 +18,3 @@ with videos coming from the OVP's CDN.
 Entitlements and eCommerce transactions and 3rd
 party synchronisation is handled using a RabbitMq server with dedicated workers for each
 of the concerns.
-
-<p>Website: <a href="http://player.bfi.org.uk/">http://player.bfi.org.uk/</a>
-    <br>Case study: <a href="http://ostmodern.co.uk/projects/bfi/bfi-player/">http://ostmodern.co.uk/projects/bfi/bfi-player/</a></p>

@@ -27,6 +27,3 @@ and Fox Australia respectively.</p>
 <p>On a match day, Ballball processes 11k match update transactions
 from Opta and 3Gb of data within a space of 3 hours. This includes video
 highlights, scores and standings from the top 5 leagues in Europe.</p>
-
-<p>Website: <a href="http://ballball.com/">http://ballball.com/</a>
-<br>Case study: <a href="http://ostmodern.co.uk/projects/newscorp/ballball/">http://ostmodern.co.uk/projects/newscorp/ballball/</a></p>

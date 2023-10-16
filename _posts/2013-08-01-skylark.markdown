@@ -24,5 +24,3 @@ all sorts of things like eCommerce providers, OVPs and client data sources.</p>
 on top of it. Currently there is <a href="https://player.bfi.org.uk/">BFI Player</a> which is
 a front-end built with Django and <a href="https://www.alchemiya.com/">Alchemiya</a> which has
 been built using AngularJS.</p>
-
-<p>About Skylark: <a href="http://ostmodern.co.uk/skylark/">http://ostmodern.co.uk/skylark/</a></p>
