@@ -54,23 +54,11 @@ section {
 
 .about-me {
 }
-    .about-me video {
-        display: none;
-    }
-
-    .about-me img {
-        height: 100%;
-        width: 100%;
-        display: block;
-    }
-
     .about-me h1 {
-        top: 30px;
-        left: 7%;
+
     }
 
     .about-me p {
-        display: none;
     }
 
 
