@@ -1,0 +1,10 @@
+---
+title: Orqid
+date: 2021-10-01 00:00:01 Z
+layout: post
+client: Orqid
+project: Freelance
+class: seoul
+---
+
+<p>Ran a technical consultancy in Korea</p>
