@@ -2,8 +2,8 @@
 title: SME Capital
 date: 2017-10-01 00:00:01 Z
 layout: post
-client: SME Capital
-project: Technical Lead
+client: Technical Lead
+project: SME Capital
 class: sme-capital
 ---
 
